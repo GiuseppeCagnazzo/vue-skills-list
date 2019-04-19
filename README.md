@@ -1,2 +1,15 @@
 # vue-skills-list
-Simple Vue Skills List App
+
+## Project setup
+```
+npm install
+```
+
+```
+npm run serve
+```
+
+```
+npm run build
+```
+
